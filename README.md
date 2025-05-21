@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 O instalar directamente:
 ```bash
-pip install streamlit pandas matplotlib seaborn plotly
+pip install streamlit pandas matplotlib seaborn plotly nbformat numpy
 ```
 Ejecuta el dashboard:
 ```bash
